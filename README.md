@@ -31,6 +31,9 @@ In the following, you can find the list of talks with PDFs (if shared), timestam
   * [NERSC](https://www.nersc.gov/)
 * [Michael Schlottke-Lakemper](https://github.com/sloede): **Running Julia code in parallel with MPI: Lessons learned** ([PDF](presentations/Michael_Schlottke-Lakemper-Running_Julia_code_in_parallel_with_MPI_Lessons_learned.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=5172))
   * [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
+  * [MPItrampoline](https://github.com/eschnett/MPItrampoline)
+  * [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)
+  * [tmpi](https://github.com/Azrael3000/tmpi)
 * [Ludovic Räss](https://github.com/luraess): **Julia and GPU-HPC for geoscience applications** ([PDF](presentations/Ludovic_Raess-Julia_and_GPU-HPC_for_geoscience_applications.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=5926))
   * [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/)
 
