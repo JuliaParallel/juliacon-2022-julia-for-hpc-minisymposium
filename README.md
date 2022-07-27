@@ -10,16 +10,24 @@ This repository provides information and material regarding the [Julia for High-
 Below you will find information on the [presentations](#presentations), the [abstract](#abstract) and [description](#description) of the minisymposium, and information on the [sharing and redistributing](#license) the slides.
 
 ## Presentations
-In the following, you can find the list of talks with PDFs of the presentations if they were shared by their authors:
+In the following, you can find the list of talks with PDFs (if shared), timestamped YouTube links, and links to additional resources:
 * [William F Godoy](https://github.com/williamfgc) & [Michael Schlottke-Lakemper](https://github.com/sloede): **Julia for High-Performance Computing** ([PDF](presentations/William_F_Godoy-Julia_for_High-Performance_Computing.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=80))
 * [Samuel Omlin](https://github.com/omlins): **Scalability of the Julia/GPU stack** ([PDF](presentations/Samuel_Omlin-Scalability_of_the_Julia_GPU_stack.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=407))
+  * [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl)
 * [Simon Byrne](https://github.com/simonbyrne): **MPI.jl** ([PDF](presentations/Simon_Byrne-MPI.jl.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=959))
+  * [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
 * [Tim Besard](https://github.com/maleadt): **CUDA.jl: Update on new features and developments** ([PDF](presentations/Tim_Besard-CUDA.jl-Update_on_new_features_and_developments.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=1967))
+  * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 * [Julian Samaroo](https://github.com/jpsamaroo): **AMDGPU.jl: State of development and roadmap to the future** ([YouTube](https://youtu.be/fog1x9rs71Q?t=2568))
+  * [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl)
 * [Albert Reuther](https://github.com/areuther): **Supporting Julia Users at MIT LL Supercomputing Center** ([PDF](presentations/Albert_Reuther-Supporting_Julia_Users_at_MIT_LL_Supercomputing_Center.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=3600))
+  * [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 * [Johannes Blaschke](https://github.com/jblaschke): **Supporting Julia users on NERSC’s “Cori” and “Perlmutter” systems** ([PDF](presentations/Johannes_Blaschke-Supporting_Julia_users_on_NERSCs_Cori_and_Perlmutter_systems.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=4178))
+  * [NERSC](https://www.nersc.gov/)
 * [Michael Schlottke-Lakemper](https://github.com/sloede): **Running Julia code in parallel with MPI: Lessons learned** ([PDF](presentations/Michael_Schlottke-Lakemper-Running_Julia_code_in_parallel_with_MPI_Lessons_learned.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=5172))
+  * [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
 * [Ludovic Räss](https://github.com/luraess): **Julia and GPU-HPC for geoscience applications** ([PDF](presentations/Ludovic_Raess-Julia_and_GPU-HPC_for_geoscience_applications.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=5926))
+  * [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/)
 
 ## Abstract
 The "Julia for HPC" minisymposium aims to gather current and prospective Julia practitioners in the field of high-performance computing (HPC) from multidisciplinary applications. We invite participation from industry, academia, and government institutions interested in Julia’s capabilities for supercomputing. The goal is to provide a venue for Julia enthusiasts to share best practices, discuss current limitations, and identify future developments in the scientific HPC community.
