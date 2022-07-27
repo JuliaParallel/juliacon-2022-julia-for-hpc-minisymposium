@@ -2,8 +2,11 @@
 
 [![YouTube](https://img.shields.io/youtube/views/fog1x9rs71Q?style=social)](https://www.youtube.com/watch?v=fog1x9rs71Q)
 
-
 This repository provides information and material regarding the [Julia for High-Performance Computing](https://live.juliacon.org/talk/LUWYRJ) minisymposium at [JuliaCon 2022](https://juliacon.org/2022/), which took place on 27th July 2022, 4pm - 6:30pm UTC.
+
+<img src="assets/Julia_for_HPC-minisymposium-juliacon22.png" alt="Julia for HPC JuliaCon22" width="600">
+
+---
 
 **Organizers:** [William F Godoy](https://github.com/williamfgc), [Michael Schlottke-Lakemper](https://github.com/sloede), [Carsten Bauer](https://github.com/carstenbauer), [Hendrik Ranocha](https://github.com/ranocha), [Johannes Blaschke](https://github.com/jblaschke), [Jeffrey Vetter](https://www.ornl.gov/staff-profile/jeffrey-s-vetter)
 
