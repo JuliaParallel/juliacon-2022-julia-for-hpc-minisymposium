@@ -21,7 +21,7 @@ In the following, you can find the list of talks with PDFs (if shared), timestam
   * [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
 * [Tim Besard](https://github.com/maleadt): **CUDA.jl: Update on new features and developments** ([PDF](presentations/Tim_Besard-CUDA.jl-Update_on_new_features_and_developments.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=1967))
   * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
-* [Julian Samaroo](https://github.com/jpsamaroo): **AMDGPU.jl: State of development and roadmap to the future** ([YouTube](https://youtu.be/fog1x9rs71Q?t=2568))
+* [Julian Samaroo](https://github.com/jpsamaroo): **AMDGPU.jl: State of development and roadmap to the future** ([PDF](presentations/Julian_Samaroo-AMDGPU.jl.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=2568))
   * [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl)
 * [Albert Reuther](https://github.com/areuther): **Supporting Julia Users at MIT LL Supercomputing Center** ([PDF](presentations/Albert_Reuther-Supporting_Julia_Users_at_MIT_LL_Supercomputing_Center.pdf), [YouTube](https://youtu.be/fog1x9rs71Q?t=3600))
   * [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
