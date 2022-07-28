@@ -13,45 +13,46 @@ This repository provides information and material regarding the [Julia for High-
 Below you will find information on the [presentations](#presentations), the [abstract](#abstract) and [description](#description) of the minisymposium, and information on the [sharing and redistributing](#license) the slides.
 
 ## Presentations
-In the following, you can find the list of talks with PDFs, timestamped YouTube links, and links to additional resources:
+In the following, you can find the list of talks with timestamped YouTube links and the presentations as PDFs:
 * [William F Godoy](https://github.com/williamfgc) & [Michael Schlottke-Lakemper](https://github.com/sloede): **Julia for High-Performance Computing**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=80)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/William_F_Godoy-Julia_for_High-Performance_Computing.pdf)
 * [Samuel Omlin](https://github.com/omlins): **Scalability of the Julia/GPU stack**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=407)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Samuel_Omlin-Scalability_of_the_Julia_GPU_stack.pdf)
-  * [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl)
 * [Simon Byrne](https://github.com/simonbyrne): **MPI.jl**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=959)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Simon_Byrne-MPI.jl.pdf)
-  * [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
 * [Tim Besard](https://github.com/maleadt): **CUDA.jl: Update on new features and developments**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=1967)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Tim_Besard-CUDA.jl-Update_on_new_features_and_developments.pdf)
-  * [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
 * [Julian Samaroo](https://github.com/jpsamaroo): **AMDGPU.jl: State of development and roadmap to the future**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=2568)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Julian_Samaroo-AMDGPU.jl.pdf)
-  * [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl)
 * [Albert Reuther](https://github.com/areuther): **Supporting Julia Users at MIT LL Supercomputing Center**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=3600)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Albert_Reuther-Supporting_Julia_Users_at_MIT_LL_Supercomputing_Center.pdf)
-  * [MIT Lincoln Laboratory](https://www.ll.mit.edu/)
 * [Johannes Blaschke](https://github.com/jblaschke): **Supporting Julia users on NERSC’s “Cori” and “Perlmutter” systems**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=4178)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Johannes_Blaschke-Supporting_Julia_users_on_NERSCs_Cori_and_Perlmutter_systems.pdf)
-  * [NERSC](https://www.nersc.gov/)
 * [Michael Schlottke-Lakemper](https://github.com/sloede): **Running Julia code in parallel with MPI: Lessons learned**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=5172)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Michael_Schlottke-Lakemper-Running_Julia_code_in_parallel_with_MPI_Lessons_learned.pdf)
-  * [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
-  * [MPItrampoline](https://github.com/eschnett/MPItrampoline)
-  * [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)
-  * [tmpi](https://github.com/Azrael3000/tmpi)
 * [Ludovic Räss](https://github.com/luraess): **Julia and GPU-HPC for geoscience applications**<br>
   [![YouTube](https://shields.io/badge/-YouTube-red)](https://youtu.be/fog1x9rs71Q?t=5926)
   [![PDF](https://shields.io/badge/-PDF-blue)](presentations/Ludovic_Raess-Julia_and_GPU-HPC_for_geoscience_applications.pdf)
-  * [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/)
+
+Links to further resources as shown in the talks:
+* [AMDGPU.jl](https://github.com/JuliaGPU/AMDGPU.jl)
+* [CUDA.jl](https://github.com/JuliaGPU/CUDA.jl)
+* [GPU4GEO](https://ptsolvers.github.io/GPU4GEO/)
+* [ImplicitGlobalGrid.jl](https://github.com/eth-cscs/ImplicitGlobalGrid.jl)
+* [MPI.jl](https://github.com/JuliaParallel/MPI.jl)
+* [MPItrampoline](https://github.com/eschnett/MPItrampoline)
+* [PackageCompiler.jl](https://github.com/JuliaLang/PackageCompiler.jl)
+* [tmpi](https://github.com/Azrael3000/tmpi)
+* [Trixi.jl](https://github.com/trixi-framework/Trixi.jl)
+
 
 ## Abstract
 The "Julia for HPC" minisymposium aims to gather current and prospective Julia practitioners in the field of high-performance computing (HPC) from multidisciplinary applications. We invite participation from industry, academia, and government institutions interested in Julia’s capabilities for supercomputing. The goal is to provide a venue for Julia enthusiasts to share best practices, discuss current limitations, and identify future developments in the scientific HPC community.
